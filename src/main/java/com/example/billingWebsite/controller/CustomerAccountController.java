@@ -56,9 +56,5 @@ public class CustomerAccountController {
         }
     }
 
-
-
-
-    // Other endpoints
 }
 
